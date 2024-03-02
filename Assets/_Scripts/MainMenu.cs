@@ -15,6 +15,12 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene("Credits"); // Replace "CreditsScene" with the name of your credits scene
     }
 
+    // Method to load the menu scene
+    public void LoadMenu()
+    {
+        SceneManager.LoadScene("Game"); // Replace "CreditsScene" with the name of your credits scene
+    }
+
     // Method to close the game
     public void QuitGame()
     {
