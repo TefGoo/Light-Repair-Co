@@ -117,7 +117,7 @@ public class SimonSaysGame : MonoBehaviour
         errorMessageText.gameObject.SetActive(true); // Show error message
         ClosePanelAndDestroy();
         Time.timeScale = 1; // Ensure game time is resumed
-        errorMessageText.text = "Incorrect Button";
+        errorMessageText.text = "";
         yield return new WaitForSeconds(3f); // Wait for 3 seconds before hiding error message
         errorMessageText.gameObject.SetActive(false); // Hide error message
         errorMessageText.gameObject.SetActive(false); // Hide error message

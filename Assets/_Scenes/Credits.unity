@@ -503,8 +503,8 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: "GAME CREATED BY \nTEFDEV\n3D art by\nSynty\nMusic by\nZane Little\nSkybox
-    by\nBoxophobic"
+  m_text: "GAME CREATED BY \nTEFDEV\n3D art by\nSynty\nQuaternius\nMusic by\nZane
+    Little\nSkybox by\nBoxophobic"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 7991d494c4362de4ea2379c2970ea3bf, type: 2}
   m_sharedMaterial: {fileID: 2294618803859464537, guid: 7991d494c4362de4ea2379c2970ea3bf,
@@ -532,8 +532,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 31.96
+  m_fontSizeBase: 31.96
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
